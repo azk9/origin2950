@@ -26,4 +26,5 @@ Phase 1: Brainstorming Ideas
 
 Questions for reviewers:
    - What should our research questions/goals for our project look like?
+   - Just generally confused how we should go about analyzing this data?
   
